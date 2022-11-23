@@ -1,0 +1,4 @@
+#archivos a ignorar
+ignorar.log
+!un-secretos2.txt
+un-secreto[2-3].txt
